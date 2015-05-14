@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+bin_PROGRAMS=parity
+parity_SOURCES=parity.c

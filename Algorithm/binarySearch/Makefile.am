@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+bin_PROGRAMS=binarysearch
+binarysearch_SOURCES=binarysearch.c
